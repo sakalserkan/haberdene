@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://sakalserkan.github.io/haberdene/nihat-icin-deneme.html",
+            "url": "https://sakalserkan.github.io/haberdene/nihat-icin-deneme.html",
+            "title": "Nihat İçin Deneme",
+            "summary": "<p>lorem felan yazılacak buraya</p>\n",
+            "content_html": "<p>lorem felan yazılacak buraya</p>\n\n<p>burayada devamı felan işte</p>",
+            "image": "https://sakalserkan.github.io/haberdene/media/posts/3/ahsap-montaj-elemani-kursu-kapak.png",
+            "author": {
+                "name": "Sakal Bıyık"
+            },
+            "tags": [
+                   "Haberler"
+            ],
+            "date_published": "2026-03-31T14:37:57+03:00",
+            "date_modified": "2026-03-31T14:37:57+03:00"
+        },
+        {
             "id": "https://sakalserkan.github.io/haberdene/ilk-blog-yazisi.html",
             "url": "https://sakalserkan.github.io/haberdene/ilk-blog-yazisi.html",
             "title": "İlk Blog Yazısı",

@@ -3,12 +3,39 @@
     <title>News Teması</title>
     <link href="https://sakalserkan.github.io/haberdene/feed.xml" rel="self" />
     <link href="https://sakalserkan.github.io/haberdene" />
-    <updated>2026-03-31T14:23:13+03:00</updated>
+    <updated>2026-03-31T14:37:57+03:00</updated>
     <author>
         <name>Sakal Bıyık</name>
     </author>
     <id>https://sakalserkan.github.io/haberdene</id>
 
+    <entry>
+        <title>Nihat İçin Deneme</title>
+        <author>
+            <name>Sakal Bıyık</name>
+        </author>
+        <link href="https://sakalserkan.github.io/haberdene/nihat-icin-deneme.html"/>
+        <id>https://sakalserkan.github.io/haberdene/nihat-icin-deneme.html</id>
+        <media:content url="https://sakalserkan.github.io/haberdene/media/posts/3/ahsap-montaj-elemani-kursu-kapak.png" medium="image" />
+            <category term="Haberler"/>
+
+        <updated>2026-03-31T14:37:57+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://sakalserkan.github.io/haberdene/media/posts/3/ahsap-montaj-elemani-kursu-kapak.png" alt="" />
+                    <p>lorem felan yazılacak buraya</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sakalserkan.github.io/haberdene/media/posts/3/ahsap-montaj-elemani-kursu-kapak.png" class="type:primaryImage" alt="" /></p>
+                <p>lorem felan yazılacak buraya</p>
+
+<p>burayada devamı felan işte</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>İlk Blog Yazısı</title>
         <author>
