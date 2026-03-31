@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sakalserkan.github.io/haberdene/sitemap.xml
