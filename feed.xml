@@ -3,12 +3,39 @@
     <title>News Teması</title>
     <link href="https://sakalserkan.github.io/haberdene/feed.xml" rel="self" />
     <link href="https://sakalserkan.github.io/haberdene" />
-    <updated>2026-03-31T14:37:57+03:00</updated>
+    <updated>2026-04-06T23:23:13+03:00</updated>
     <author>
         <name>Sakal Bıyık</name>
     </author>
     <id>https://sakalserkan.github.io/haberdene</id>
 
+    <entry>
+        <title>sdfsdfsdfsdf</title>
+        <author>
+            <name>Sakal Bıyık</name>
+        </author>
+        <link href="https://sakalserkan.github.io/haberdene/sdfsdfsdfsdf.html"/>
+        <id>https://sakalserkan.github.io/haberdene/sdfsdfsdfsdf.html</id>
+        <media:content url="https://sakalserkan.github.io/haberdene/media/posts/4/bilgi-ve-belge-yonetimi-kursu-kapak.png" medium="image" />
+
+        <updated>2026-04-06T23:23:13+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://sakalserkan.github.io/haberdene/media/posts/4/bilgi-ve-belge-yonetimi-kursu-kapak.png" alt="" />
+                    sdfsdfsdfs dfs df sd fs dfsd fs df sdf sdf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sakalserkan.github.io/haberdene/media/posts/4/bilgi-ve-belge-yonetimi-kursu-kapak.png" class="type:primaryImage" alt="" /></p>
+                <p>sdfsdfsdfs dfs df sd fs dfsd</p>
+<p>fs</p>
+<p>df</p>
+<p>sdf</p>
+<p>sdf</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nihat İçin Deneme</title>
         <author>
@@ -50,14 +77,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://sakalserkan.github.io/haberdene/media/posts/2/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-2.png" alt="" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec bibendum libero. Morbi eleifend quam eu lacus porta vulputate accumsan sit amet felis. Pellentesque orci erat, eleifend in leo non, vestibulum facilisis sapien. Cras eget dui ante. Phasellus et urna mi. Proin nec turpis non&hellip;
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec bibendum libero. Morbi eleifend quam eu lacus porta vulputate accumsan&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://sakalserkan.github.io/haberdene/media/posts/2/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec bibendum libero. Morbi eleifend quam eu lacus porta vulputate accumsan sit amet felis. Pellentesque orci erat, eleifend in leo non, vestibulum facilisis sapien. Cras eget dui ante. Phasellus et urna mi. Proin nec turpis non erat eleifend euismod. Mauris commodo dolor nibh, vitae ornare eros aliquet at. Maecenas eget felis nec velit euismod facilisis in et odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis eget massa nibh. Mauris molestie arcu eget justo ultrices, ut vehicula diam vehicula. Pellentesque pulvinar molestie pulvinar.</p>
-<figure class="post__image"><img loading="lazy"  src="https://sakalserkan.github.io/haberdene/media/posts/2/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak.png" alt="Al Desc" width="1024" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-xs.png 300w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-sm.png 480w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-md.png 768w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-lg.png 1024w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-xl.png 1360w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-2xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sakalserkan.github.io/haberdene/media/posts/2/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak.png" alt="Al Desc" width="1024" height="768" sizes="(max-width: 48em) 100vw, 768px" srcset="https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-xs.png 300w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-sm.png 480w ,https://sakalserkan.github.io/haberdene/media/posts/2/responsive/ahsap-boyama-ve-vernikleme-elemani-kursu-kapak-md.png 768w"></figure>
 <p>Sed fringilla velit quam, at tincidunt arcu consequat non. Nam pretium nunc commodo urna tincidunt volutpat. Curabitur varius mollis fringilla. Proin vitae leo mauris. Nullam finibus rhoncus ligula, eu auctor sem semper eget. Maecenas iaculis massa ac maximus interdum. Aenean maximus luctus eleifend. Vestibulum vel dapibus metus. Donec posuere eros urna, sit amet rutrum nisl venenatis et. Donec ac nibh quis augue faucibus maximus. Mauris congue orci nec feugiat tempor. Integer a rutrum mauris, eu feugiat magna. In sodales leo ac est sollicitudin, in dictum orci malesuada. In sed orci maximus, pellentesque nisi ut, pretium libero. Etiam quam velit, blandit at quam a, pellentesque porta leo. Praesent sit amet magna sed felis feugiat facilisis.</p>
 <p>Aliquam vehicula arcu a lectus ultrices, non malesuada odio dictum. Mauris interdum sodales mauris, porta vehicula nisl molestie quis. Cras eget interdum urna. Morbi scelerisque ex a ipsum laoreet, et tincidunt nulla posuere. Vestibulum pulvinar nunc consequat porttitor congue. Integer semper laoreet tincidunt. Suspendisse ac nibh sem. Ut dignissim eros in nisl vulputate tincidunt. Nunc sed eros magna. Vivamus cursus tortor felis, convallis sollicitudin lorem condimentum a. Pellentesque ac faucibus erat. Vestibulum non augue a arcu pharetra rhoncus sed interdum urna. Vivamus eros mi, ornare vitae dignissim vel, viverra vel mauris. Fusce at luctus ipsum, id imperdiet massa.</p>
 <p>Proin id ullamcorper sem, at porta lacus. Morbi viverra sem odio, quis gravida lectus commodo eget. Aenean non erat id est tristique semper ut vitae purus. Donec condimentum diam tellus, at maximus nulla condimentum nec. Maecenas quis dui ipsum. Nam sollicitudin sit amet enim sed pulvinar. Ut diam velit, pretium at ipsum at, rutrum aliquet tellus. Nullam non ligula bibendum, varius magna et, interdum neque. Duis venenatis nisi vitae sem molestie faucibus.</p>
